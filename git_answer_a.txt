@@ -8,3 +8,4 @@ git add . = to add all files
 git commit -m "main"
 git branch 
 git remote add origin https://github.com/YourUserName/NameOfRepository.git
+git push -u origin main = push files.
