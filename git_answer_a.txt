@@ -6,7 +6,7 @@ mkdir
 cd documents
 cd scheduling_balmes 
 git init = initialized git repository
-git config = to config user.name or user.email
+git config = to config AdrianBalmes or Adrianbalmes211@gmail.com
 git add . = to add all files
 git commit -m "main"
 git branch 
