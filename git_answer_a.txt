@@ -11,3 +11,11 @@ git add . = to add all files
 git commit -m "main"
 git branch 
 git remote add origin https://github.com/YourUserName/NameOfRepository.git
+git push -u origin main = push files.
+
+
+Answer B.
+
+share the best practice in your git 
+
+Git is one of the best tools for managing and tracking project files. It allows you to access your local repository and view your project history even without an internet connection.
