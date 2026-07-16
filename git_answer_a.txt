@@ -13,5 +13,6 @@ git push -u origin main = push files.
 
 Answer B.
 
-share the best practice in your git add,commit
+share the best practice in your git 
 
+Git is one of the best tools for managing and tracking project files. It allows you to access your local repository and view your project history even without an internet connection.
