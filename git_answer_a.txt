@@ -6,16 +6,11 @@ mkdir
 cd documents
 cd scheduling_balmes 
 git init = initialized git repository
-git config = to config user.name or user.email
+git config = to config AdrianBalmes or Adrianbalmes211@gmail.com
 git add . = to add all files
 git commit -m "main"
 git branch 
-git remote add origin https://github.com/YourUserName/NameOfRepository.git
+git remote add origin https://github.com/AdrianBalmes/itp19_balmes.git
 git push -u origin main = push files.
 
 
-Answer B.
-
-share the best practice in your git 
-
-Git is one of the best tools for managing and tracking project files. It allows you to access your local repository and view your project history even without an internet connection.
