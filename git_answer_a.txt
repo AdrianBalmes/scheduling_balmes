@@ -10,7 +10,7 @@ git config = to config user.name or user.email
 git add . = to add all files
 git commit -m "main"
 git branch 
-git remote add origin https://github.com/YourUserName/NameOfRepository.git
+git remote add origin https://github.com/AdrianBalmes/itp19_balmes.git
 git push -u origin main = push files.
 
 
