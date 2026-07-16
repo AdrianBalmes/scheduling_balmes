@@ -9,3 +9,9 @@ git commit -m "main"
 git branch 
 git remote add origin https://github.com/YourUserName/NameOfRepository.git
 git push -u origin main = push files.
+
+
+Answer B.
+
+share the best practice in your git add,commit
+
