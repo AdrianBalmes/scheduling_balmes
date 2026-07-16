@@ -1,7 +1,10 @@
 A.List the workflow og using Git.
 
 
-create a folder ,highlights the path and type cmd to direct it on cmd.exe 
+create a folder ,highlights the path and type cmd to direct it on cmd.exe
+mkdir
+cd documents
+cd scheduling_balmes 
 git init = initialized git repository
 git config = to config user.name or user.email
 git add . = to add all files
