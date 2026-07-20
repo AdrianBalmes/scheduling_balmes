@@ -21,3 +21,20 @@ Freeware = the apps are free but not available the main source.
 License = opensource and permissive
 Derived works = commission based ads,subscribe
 example of opensource = GitHub ,androidai , Linux
+
+July 20,2026
+
+Packet sniffing=is the method of gathering collecting, and logging some or all packets pass through a computer  
+
+2 main parts of packet sniffers
+1.network adapter connects the sniffers to the existing network
+2.software that provides a way to log see 
+
+Cloud Computing
+
+Key trends:
+Public ,private,and hybrid
+Serverless computing
+Edge computing :processing closer to data source(iot)
+
+Impact:scalability,cost efficiency and flexibility
